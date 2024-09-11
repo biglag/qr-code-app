@@ -1,0 +1,35 @@
+.qrScannerContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+  margin: 50px auto;
+}
+
+.qrScannerResult {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 15px;
+  font-family: "Arial", sans-serif;
+  text-align: center;
+}
+
+.qrScannerResult span {
+  font-weight: bold;
+  color: #007bff;
+}
+
+.qrScannerWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px dashed #007bff;
+  padding: 10px;
+  border-radius: 15px;
+  background-color: white;
+}
