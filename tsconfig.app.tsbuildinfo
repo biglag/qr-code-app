@@ -1,0 +1,1 @@
+{"root":["./src/layout.tsx","./src/constants.ts","./src/main.tsx","./src/vite-env.d.ts","./src/components/generate/qrcodegenerator.tsx","./src/components/history/generatehistory.tsx","./src/components/history/scanhistory.tsx","./src/components/naviagtion/navigation.tsx","./src/components/scan/qrcodescanner.tsx"],"version":"5.6.2"}
