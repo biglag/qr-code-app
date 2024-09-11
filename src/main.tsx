@@ -5,5 +5,6 @@ import { Layout } from "./Layout";
 createRoot(document.getElementById("root")!).render(
   <BrowserRouter>
     <Layout />
+    {/* <createRoot></createRoot> */}
   </BrowserRouter>,
 );
